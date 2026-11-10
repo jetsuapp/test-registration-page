@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jetsuapp.github.io/test-registration-page/sitemap.xml
