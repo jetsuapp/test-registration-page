@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jetsuapp.github.io/test-registration-page/page/</loc>
-    <lastmod>2026-11-10T20:07:55.907Z</lastmod>
+    <loc>https://jetsuapp.github.io/test-registration-page/</loc>
+    <lastmod>2026-11-10T20:08:43.634Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://jetsuapp.github.io/test-registration-page/</loc>
-    <lastmod>2026-11-10T20:07:20.021Z</lastmod>
+    <loc>https://jetsuapp.github.io/test-registration-page/page/</loc>
+    <lastmod>2026-11-10T20:08:05.087Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
